@@ -1,0 +1,6 @@
+This project is a simple script to calculate the relative probabilities 
+of having various fixed point types in random two-dimensional linear
+systems of differential equations:
+
+dx/dt = ax + by
+dy/dt = cx + dy
