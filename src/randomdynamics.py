@@ -69,4 +69,4 @@ if __name__ == "__main__":
     print "Results:"
     for key in results:
         val = results[key]
-        print "{0:15}: {1:10} ({2:.3f}%)".format(key, val, val / float(1e6))
+        print "{0:15}: {1:10} ({2:.3f})".format(key, val, val / float(1e6))
